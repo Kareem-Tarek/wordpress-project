@@ -10,7 +10,7 @@
 # except "contact-form-7" plugin
 !wp-content/plugins/contact-form-7
 # don't allow "woocommerce" plugin
-# !wp-content/plugins/woocommerce
+/wp-content/plugins/woocommerce
 
 #-----------------------------> themes
 #don't allow everything in "themes" directory
@@ -115,4 +115,3 @@ wp-config.php
 *.ra
 *.webm
 *.wmv
- 

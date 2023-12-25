@@ -55,10 +55,10 @@ wp-snapshots/*
 # /wp-content/languages/*
 # /wp-content/uploads/*
 /wp-content/plugins/*
+wp-content/plugins/woocommerce
 !wp-content/plugins/akismet
 !wp-content/plugins/classic-editor
 !wp-content/plugins/contact-form-7
-# !wp-content/plugins/woocommerce
 /wp-content/themes/*
 !wp-content/themes/freelancer-portfolio
 !wp-content/themes/tale-travel

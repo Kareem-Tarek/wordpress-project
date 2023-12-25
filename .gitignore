@@ -50,7 +50,8 @@ Thumbs.db
 /.idea/
 
 # WP dirs.
-wp-includes/*
+# wp-admin/*
+# wp-includes/*
 wp-snapshots/*
 
 # Ignore logs

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Akismet Anti-spam: Spam Protection - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-20 19:07:32+0000\n"
+"PO-Revision-Date: 2023-12-27 13:48:38+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -44,7 +44,7 @@ msgstr "تم تعطيل WP-Cron باستخدام ثابت DISABLE_WP_CRON. قد 
 #. changed, like "This comment was reported as spam."
 #: class.akismet-admin.php:700
 msgid "%1$s - %2$s"
-msgstr "%1$s - %2$s"
+msgstr "من ⁦%1$s⁩ إلى ⁦%2$s⁩"
 
 #: views/get.php:17
 msgid "(opens in a new tab)"
@@ -235,7 +235,7 @@ msgstr "يمكنك من خلال هذه الصفحة تحديث إعدادات A
 
 #: class.akismet-admin.php:114 class.akismet-admin.php:117
 msgid "Akismet Anti-spam"
-msgstr "مكافح البريد العشوائي Akismet"
+msgstr "Akismet Anti-spam"
 
 #: views/enter.php:10
 msgid "Connect with API key"

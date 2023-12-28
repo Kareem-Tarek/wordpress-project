@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.4.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-20 10:53:03+0000\n"
+"PO-Revision-Date: 2023-12-25 17:57:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -299,10 +299,19 @@ msgctxt "block title"
 msgid "Content"
 msgstr "المحتوى"
 
+#: wp-includes/blocks/post-author/block.json
+msgctxt "block title"
+msgid "Author"
+msgstr "الكاتب"
+
 #: wp-includes/js/dist/edit-site.js:36176
 #: wp-admin/includes/class-wp-posts-list-table.php:1562
 msgid "Export as JSON"
 msgstr "تصدير بصيغة JSON"
+
+#: wp-includes/js/dist/edit-site.js:26939 wp-admin/menu.php:67
+msgid "Library"
+msgstr "المكتبة"
 
 #: wp-includes/blocks/post-title/block.json
 msgctxt "block title"
